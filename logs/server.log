@@ -1,13 +1,7 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [152] using StatReload
-INFO:     Started server process [154]
+INFO:     Started reloader process [199] using StatReload
+INFO:     Started server process [201]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:34412 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:39932 - "OPTIONS /api/auth/email-login HTTP/1.1" 200 OK
-INFO:     172.20.0.1:39932 - "POST /api/auth/email-login HTTP/1.1" 200 OK
-INFO:     172.20.0.1:39932 - "GET /api/ai/daily-tip?email=mouhannadghamian%40gmail.com&language=en HTTP/1.1" 200 OK
-INFO:     172.20.0.1:39932 - "GET /api/ai/daily-tip?email=mouhannadghamian%40gmail.com&language=en HTTP/1.1" 200 OK
-INFO:     172.20.0.1:39946 - "GET /api/habits/list?email=mouhannadghamian%40gmail.com HTTP/1.1" 200 OK
-INFO:     172.20.0.1:39946 - "GET /api/habits/list?email=mouhannadghamian%40gmail.com HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57002 - "HEAD / HTTP/1.1" 405 Method Not Allowed
